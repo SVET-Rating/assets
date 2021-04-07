@@ -3348,6 +3348,28 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/SVET-Rating/assets/master/blockchains/ethereum/assets/0x317224F17990328E7398be2e82F8d13b16325EDb/logo.png",
             "pairs": []
+        },
+        {
+            "chainId": 3,
+            "asset": "c60_t0x88a40179d481bf6887058B69c9573998F0BAa07a",
+            "type": "ERC20",
+            "address": "0x88a40179d481bf6887058B69c9573998F0BAa07a",
+            "name": "Kyber Network Crystal",
+            "symbol": "KNC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SVET-Rating/assets/master/blockchains/ethereum/assets/0x88a40179d481bf6887058B69c9573998F0BAa07a/logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 1,
+            "asset": "c60_t0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "type": "ERC20",
+            "address": "0x16D0f0A5E5A79Ca442546B9aE4e9Cd349D4732D8",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/SVET-Rating/assets/master/blockchains/ethereum/assets/0x16D0f0A5E5A79Ca442546B9aE4e9Cd349D4732D8/logo.png",
+            "pairs": []
         }
     ],
     "version": {
