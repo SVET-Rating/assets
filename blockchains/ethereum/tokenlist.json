@@ -3335,9 +3335,20 @@
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x643c9E76bCf184479Fb3b3eb2c89516a15773770/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/SVET-Rating/assets/master/blockchains/ethereum/assets/0x643c9E76bCf184479Fb3b3eb2c89516a15773770/logo.png",
             "pairs": []
-        },
+        }, 
+        {
+            "chainId": 3,
+            "asset": "c60_t0x317224F17990328E7398be2e82F8d13b16325EDb",
+            "type": "ERC20",
+            "address": "0x317224F17990328E7398be2e82F8d13b16325EDb",
+            "name": "Bytom",
+            "symbol": "BTM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SVET-Rating/assets/master/blockchains/ethereum/assets/0x317224F17990328E7398be2e82F8d13b16325EDb/logo.png",
+            "pairs": []
+        }
     ],
     "version": {
         "major": 11,

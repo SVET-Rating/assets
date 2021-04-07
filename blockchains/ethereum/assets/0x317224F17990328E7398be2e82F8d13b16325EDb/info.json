@@ -1,0 +1,11 @@
+{
+    "name": "Bytom",
+    "symbol": "BTM",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "-",
+    "website": "",
+    "explorer": "https://ropsten.etherscan.io/token/0x317224F17990328E7398be2e82F8d13b16325EDb",
+    "status": "abandoned",
+    "id": "0x317224F17990328E7398be2e82F8d13b16325EDb"
+}
